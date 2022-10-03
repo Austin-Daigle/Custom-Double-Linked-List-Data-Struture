@@ -1,6 +1,7 @@
 # Custom Double Linked List Data Struture
 
-This is a repo containing a double linked list data structure written in Java as a custom data struture.
+This is a repo containing a double linked list data structure written in Java as a custom data struture. Written in 2021.
+
 
 ## How to use:
 
